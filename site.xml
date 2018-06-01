@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Fabrizio Arosio KNIME nodes update site" url="https://github.com/arofab">
+      Fabrizio Arosio KNIME nodes update site
+   </description>
+   <feature url="features/it.arofab.filehandling.webdav.feature_0.1.0.201805271429.jar" id="it.arofab.filehandling.webdav.feature" version="0.1.0.201805271429">
+      <category name="arofab-knime-nodes"/>
+   </feature>
+   <category-def name="arofab-knime-nodes" label="arofab KNIME Nodes">
+      <description>
+         Arofab KNIME Nodes
+      </description>
+   </category-def>
+</site>
