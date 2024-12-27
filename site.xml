@@ -3,7 +3,7 @@
    <description name="Fabrizio Arosio KNIME nodes update site" url="https://arofab.github.io/knime-update-site/">
       Arofab KNIME nodes update site
    </description>
-   <feature url="features/it.arofab.filehandling.webdav.feature_0.2.0.202108201642.jar" id="it.arofab.filehandling.webdav.feature" version="0.2.0.202108201642">
+   <feature url="features/it.arofab.filehandling.webdav.feature_0.3.0.202412261915.jar" id="it.arofab.filehandling.webdav.feature" version="0.3.0.202412261915">
       <category name="arofab-knime-nodes"/>
    </feature>
    <category-def name="arofab-knime-nodes" label="arofab KNIME Nodes">
